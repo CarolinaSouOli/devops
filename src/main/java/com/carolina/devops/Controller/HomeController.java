@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping(value= "/")
     public String getMethodName() {
-        return "Olá Mundo Dev!";
+        return "Olá Viceri!";
     }
 }
